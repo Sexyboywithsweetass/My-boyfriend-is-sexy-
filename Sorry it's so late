@@ -1,3 +1,0 @@
-a = "I love you too, and i love you more!"
-  if a == a then
-    print(a)
